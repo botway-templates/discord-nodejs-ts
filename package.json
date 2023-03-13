@@ -5,7 +5,7 @@
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
     "@discordjs/rest": "^1.5.0",
-    "@discordjs/voice": "^0.14.0",
+    "@discordjs/voice": "^0.15.0",
     "botway.js": "^0.0.7",
     "bufferutil": "^4.0.7",
     "discord-api-types": "^0.37.28",
