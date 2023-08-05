@@ -3,24 +3,24 @@
   "version": "0.1.0",
   "main": "src/main.ts",
   "dependencies": {
-    "@discordjs/builders": "^1.4.0",
-    "@discordjs/rest": "^2.0.0",
-    "@discordjs/voice": "^0.16.0",
-    "botway.js": "^0.0.8",
-    "bufferutil": "^4.0.7",
-    "discord-api-types": "^0.37.28",
-    "discord.js": "^14.7.1",
-    "erlpack": "^0.1.4",
-    "libsodium-wrappers": "^0.7.10",
-    "opusscript": "^0.1.0",
-    "sodium-native": "^4.0.0",
-    "utf-8-validate": "^6.0.0",
-    "zlib-sync": "^0.1.7"
+    "@discordjs/builders": "latest",
+    "@discordjs/core": "latest",
+    "@discordjs/rest": "latest",
+    "@discordjs/voice": "latest",
+    "botway.js": "latest",
+    "bufferutil": "latest",
+    "discord-api-types": "latest",
+    "erlpack": "latest",
+    "libsodium-wrappers": "latest",
+    "opusscript": "latest",
+    "sodium-native": "latest",
+    "utf-8-validate": "latest",
+    "zlib-sync": "latest"
   },
   "devDependencies": {
-    "@types/node": "^20.0.0",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.0.2"
+    "@types/node": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
   },
   "scripts": {
     "start": "ts-node src/main.ts"
